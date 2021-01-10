@@ -1,2 +1,2 @@
-# htmlSamples
-htmlを練習した成果を残します
+# HTMLSample
+HTMLの練習サンプルです
